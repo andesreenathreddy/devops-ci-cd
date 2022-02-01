@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 ;
 
 @SpringBootApplication
-public class DevopsSpringRestApiApplication {
+public class DevopsCiCdApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevopsSpringRestApiApplication.class, args);
+		SpringApplication.run(DevopsCiCdApplication.class, args);
 	}
 
 }
